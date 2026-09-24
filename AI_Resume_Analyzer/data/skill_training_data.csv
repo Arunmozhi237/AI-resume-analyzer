@@ -1,0 +1,42 @@
+skill,category
+python,programming_languages
+java,programming_languages
+javascript,programming_languages
+c++,programming_languages
+c,programming_languages
+html,web_development
+css,web_development
+react,web_development
+angular,web_development
+node.js,web_development
+mysql,databases
+postgresql,databases
+mongodb,databases
+oracle,databases
+redis,databases
+aws,cloud_devops
+azure,cloud_devops
+gcp,cloud_devops
+docker,cloud_devops
+kubernetes,cloud_devops
+jenkins,cloud_devops
+tensorflow,ai_ml
+pytorch,ai_ml
+scikit-learn,ai_ml
+machine learning,ai_ml
+deep learning,ai_ml
+nlp,ai_ml
+computer vision,ai_ml
+pandas,ai_ml
+numpy,ai_ml
+git,tools
+github,tools
+postman,tools
+vs code,tools
+tableau,tools
+power bi,tools
+figma,tools
+communication,soft_skills
+leadership,soft_skills
+teamwork,soft_skills
+problem solving,soft_skills

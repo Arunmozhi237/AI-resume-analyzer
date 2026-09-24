@@ -1,0 +1,32 @@
+{
+  "programming_languages": [
+    "python", "java", "javascript", "typescript", "c", "c++", "c#",
+    "ruby", "go", "rust", "kotlin", "swift", "php", "scala", "r"
+  ],
+  "web_development": [
+    "html", "css", "react", "react.js", "angular", "vue", "vue.js",
+    "nodejs", "node.js", "express", "django", "flask", "fastapi",
+    "bootstrap", "tailwind", "jquery", "nextjs", "next.js"
+  ],
+  "databases": [
+    "mysql", "postgresql", "mongodb", "sqlite", "redis", "oracle",
+    "sql", "nosql", "firebase", "dynamodb", "cassandra"
+  ],
+  "cloud_devops": [
+    "aws", "azure", "gcp", "docker", "kubernetes", "jenkins",
+    "git", "github", "gitlab", "ci/cd", "linux", "terraform"
+  ],
+  "ai_ml": [
+    "machine learning", "deep learning", "nlp", "computer vision",
+    "tensorflow", "pytorch", "keras", "scikit-learn", "pandas",
+    "numpy", "matplotlib", "huggingface", "langchain", "openai"
+  ],
+  "tools": [
+    "vs code", "postman", "figma", "jira", "slack", "trello",
+    "jupyter", "anaconda", "webpack", "vite"
+  ],
+  "soft_skills": [
+    "leadership", "communication", "teamwork", "problem solving",
+    "critical thinking", "time management", "collaboration"
+  ]
+}
